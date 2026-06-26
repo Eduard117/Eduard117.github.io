@@ -1,0 +1,23 @@
+{
+  "created_files": [
+    "index.html",
+    "styles.css",
+    "script.js",
+    "README.txt",
+    "assets/school_preschool.png",
+    "assets/school_primary.png",
+    "assets/school_secondary.png",
+    "assets/school_highschool.png",
+    "assets/school_university.png",
+    "assets/logo_escom.png",
+    "assets/logo_ipn.webp",
+    "assets/hobby_terror.jpg",
+    "assets/hobby_videogames.jpg",
+    "assets/hobby_football.jpg",
+    "assets/profile_eduardo.jpg",
+    "assets/hobby_concert.jpg",
+    "assets/llave_publica_eduardo.pem",
+    "assets/Eduardo_Arevalo_CV_English.pdf"
+  ],
+  "key_size_bytes": 54
+}
